@@ -4,7 +4,7 @@ body {
     background-color: #000000;
     color: #c7c7c7;
     margin: 0;
-    padding: 16px;
+    padding: 0;
 }
 
 .header {
@@ -52,8 +52,13 @@ a:hover {
 .post_body {
     max-width: 700px;
     line-height: 1.7;
+    padding: 0 8px;
 }
 
 .post_body p {
     margin-bottom: 1.2em;
+}
+
+.post_header {
+    padding: 0 8px;
 }
