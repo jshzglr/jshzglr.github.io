@@ -105,3 +105,9 @@ ul {
 .posts li a {
     color: #7eb8f7;
 }
+
+@media (max-width: 600px) {
+    body {
+        font-size: 16px;
+    }
+}
