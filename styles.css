@@ -50,15 +50,9 @@ a:hover {
 }
 
 .post_body {
-    max-width: 700px;
     line-height: 1.7;
-    padding: 0 8px;
 }
 
 .post_body p {
     margin-bottom: 1.2em;
-}
-
-.post_header {
-    padding: 0 8px;
 }
