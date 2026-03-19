@@ -9,7 +9,7 @@ html, body {
 }
 
 body {
-    font-family: 'Georgia', 'Times New Roman', serif;
+    font-family: ui-serif, Georgia, serif;
     font-size: 18px;
     line-height: 1.75;
     background-color: #0a0a0a;
